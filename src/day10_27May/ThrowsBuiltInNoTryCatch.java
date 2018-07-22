@@ -6,7 +6,7 @@ public class ThrowsBuiltInNoTryCatch {
 		int c=a/b;
 		System.out.println(c);
 	}
-	public static void main(String[] args) {
+	public static void main(String[] args){
 		// TODO Auto-generated method stub
 		ThrowsBuiltInNoTryCatch a= new ThrowsBuiltInNoTryCatch();
 		a.division(10, 0);
